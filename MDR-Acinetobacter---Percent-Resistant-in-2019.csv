@@ -1,0 +1,53 @@
+Phenotype,HAI Type,Age,State,ID State,Percent Resistant,Year
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Alaska,2,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Alabama,1,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Arkansas,5,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Arizona,4,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,California,6,40,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Colorado,8,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Connecticut,9,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,District of Columbia,11,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Delaware,10,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Florida,12,12.8,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Georgia,13,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Hawaii,15,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Idaho,16,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Illinois,17,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Indiana,18,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Iowa,19,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Kansas,20,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Kentucky,21,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Louisiana,22,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Maine,23,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Maryland,24,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Massachusetts,25,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Michigan,26,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Minnesota,27,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Missouri,29,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Mississippi,28,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Montana,30,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,North Carolina,37,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,North Dakota,38,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Nebraska,31,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,New Hampshire,33,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,New Jersey,34,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,New Mexico,35,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Nevada,32,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,New York,36,34.6,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Ohio,39,20.8,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Oklahoma,40,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Oregon,41,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Pennsylvania,42,28.2,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Puerto Rico,72,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Rhode Island,44,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,South Carolina,45,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,South Dakota,46,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Tennessee,47,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Texas,48,49.3,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Utah,49,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Virginia,51,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Vermont,50,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Washington,53,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Wisconsin,55,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,West Virginia,54,0,2019
+MDR <em>Acinetobacter</em>,All HAI Type Data,All Ages Data,Wyoming,56,0,2019
